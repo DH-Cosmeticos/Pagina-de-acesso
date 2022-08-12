@@ -1,0 +1,19 @@
+{
+  "name": "pagina-de-acesso",
+  "version": "1.0.0",
+  "description": "Criar página de acesso / cadastro do usuário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DH-Cosmeticos/Pagina-de-acesso.git"
+  },
+  "author": "Maiilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DH-Cosmeticos/Pagina-de-acesso/issues"
+  },
+  "homepage": "https://github.com/DH-Cosmeticos/Pagina-de-acesso#readme"
+}
